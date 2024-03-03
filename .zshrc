@@ -24,3 +24,6 @@ plugins=(
 )
 
 alias vpn="./vpn-connect.sh"
+alias la="ls -a --color"
+alias ll="ls -la --color"
+alias cl="clear"
