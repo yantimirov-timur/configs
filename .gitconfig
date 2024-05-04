@@ -1,0 +1,8 @@
+[user]
+	name = Timur Yantimirov
+	email = tyantimirov@yandex.ru
+[core]
+	autocrlf = input
+
+[includeIf "gitdir:~/IdeaProjects/"]
+path = ~/.config/git/just-ai.conf
