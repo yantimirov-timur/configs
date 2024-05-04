@@ -1,1 +1,3 @@
 set number
+syn on
+
